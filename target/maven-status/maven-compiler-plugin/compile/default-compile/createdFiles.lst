@@ -1,0 +1,8 @@
+com/kudasa/ems/users/boundary/UserResource.class
+com/kudasa/ems/users/entity/Operations.class
+com/kudasa/ems/users/entity/Credential_.class
+com/kudasa/ems/users/entity/User_.class
+com/kudasa/ems/users/JaxrsConfig.class
+com/kudasa/ems/users/entity/User.class
+com/kudasa/ems/users/entity/Credential.class
+com/kudasa/ems/users/control/UserService.class
